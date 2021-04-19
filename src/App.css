@@ -27,3 +27,20 @@ ol {
 .navbar a {
     margin: 0 10px;
 }
+
+.carousel-root {
+    width: 30%;
+}
+
+.top-settings {
+    padding: 20px;
+}
+
+.top-settings select {
+    margin-right: 20px;
+}
+
+.top-settings label {
+    font-weight: bold;
+    margin-right: 5px;
+}
